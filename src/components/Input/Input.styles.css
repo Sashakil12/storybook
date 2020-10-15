@@ -1,0 +1,20 @@
+.input {
+  padding: 10px 32px;
+  border: none;
+  border-bottom: 0.3px solid grey;
+  cursor: text;
+}
+
+.small {
+  width: 200px;
+}
+.medium {
+  width: 400px;
+}
+
+.large {
+  width: 700px;
+}
+.block {
+  width: 100%;
+}
